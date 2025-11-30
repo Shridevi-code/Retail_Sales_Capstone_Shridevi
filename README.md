@@ -31,3 +31,6 @@ Author: Shridevi Kulkarni
  Tools
   
   Python, Pandas, NumPy, SciPy, Sklearn, Matplotlib, Colab.
+
+  Note: The raw datasets are large, therefore uploaded as ZIP files. 
+        Please download and extract the CSV files before running the notebook.
