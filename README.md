@@ -1,7 +1,9 @@
 Retail Sales Capstone Project
+
 Author: Shridevi Kulkarni
 
  Summary
+  
   Analysis of Walmart retail sales to identify key drivers and build a baseline prediction model.
 
  Data
@@ -16,13 +18,16 @@ Author: Shridevi Kulkarni
 	•	Economic indicators show weak correlation.
 
  Model
+ 
   Linear Regression
 	•	R²: 0.09
 	•	MAE: 14,570
 	•	RMSE: 21,767
 
  Files
+ 
   Notebook, PPT, PDF, and datasets included.
 
  Tools
+  
   Python, Pandas, NumPy, SciPy, Sklearn, Matplotlib, Colab.
